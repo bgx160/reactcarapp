@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bgx160/reactcarapp/static/css/main.0597ef04.css",
-    "main.js": "/bgx160/reactcarapp/static/js/main.2f317391.js",
-    "static/js/787.22ea9dd3.chunk.js": "/bgx160/reactcarapp/static/js/787.22ea9dd3.chunk.js",
-    "index.html": "/bgx160/reactcarapp/index.html",
-    "main.0597ef04.css.map": "/bgx160/reactcarapp/static/css/main.0597ef04.css.map",
-    "main.2f317391.js.map": "/bgx160/reactcarapp/static/js/main.2f317391.js.map",
-    "787.22ea9dd3.chunk.js.map": "/bgx160/reactcarapp/static/js/787.22ea9dd3.chunk.js.map"
+    "main.css": "/reactcarapp/static/css/main.0597ef04.css",
+    "main.js": "/reactcarapp/static/js/main.e3e1d235.js",
+    "static/js/787.22ea9dd3.chunk.js": "/reactcarapp/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/reactcarapp/index.html",
+    "main.0597ef04.css.map": "/reactcarapp/static/css/main.0597ef04.css.map",
+    "main.e3e1d235.js.map": "/reactcarapp/static/js/main.e3e1d235.js.map",
+    "787.22ea9dd3.chunk.js.map": "/reactcarapp/static/js/787.22ea9dd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0597ef04.css",
-    "static/js/main.2f317391.js"
+    "static/js/main.e3e1d235.js"
   ]
 }
