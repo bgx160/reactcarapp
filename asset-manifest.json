@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactcarapp/static/css/main.0597ef04.css",
-    "main.js": "/reactcarapp/static/js/main.e3e1d235.js",
+    "main.js": "/reactcarapp/static/js/main.186f2837.js",
     "static/js/787.22ea9dd3.chunk.js": "/reactcarapp/static/js/787.22ea9dd3.chunk.js",
     "index.html": "/reactcarapp/index.html",
     "main.0597ef04.css.map": "/reactcarapp/static/css/main.0597ef04.css.map",
-    "main.e3e1d235.js.map": "/reactcarapp/static/js/main.e3e1d235.js.map",
+    "main.186f2837.js.map": "/reactcarapp/static/js/main.186f2837.js.map",
     "787.22ea9dd3.chunk.js.map": "/reactcarapp/static/js/787.22ea9dd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0597ef04.css",
-    "static/js/main.e3e1d235.js"
+    "static/js/main.186f2837.js"
   ]
 }
